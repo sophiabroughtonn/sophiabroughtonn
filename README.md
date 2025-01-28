@@ -8,7 +8,7 @@
 ## 😄 Pronouns: She/Her
 ## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
 ## 🔭 My Technical Skills :
-[![My Skills](https://skillicons.dev/icons?i=c,java,py&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,vscode&perline=6)](https://skillicons.dev)
 
 <!--
 **sophiabroughtonn/sophiabroughtonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
