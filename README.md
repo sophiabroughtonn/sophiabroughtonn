@@ -1,8 +1,10 @@
 ## Hi there, I'm Sophia Broughton 👋
 🌱 I am a Junior at Arizona State University Studying Human Systems Engineering with a User Experience Concentration
+🌱 Member of WiStem at Arizona State University 
+🌱 Social Media Manager for The Diabetes Link at Arizona State University
 ## 😄 Pronouns: She/Her
 ## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
-## 🔭 Programming Experience :
+## 🔭 My Technical Skills :
 [![My Skills](https://skillicons.dev/icons?i=c,java,py&perline=6)](https://skillicons.dev)
 
 <!--
