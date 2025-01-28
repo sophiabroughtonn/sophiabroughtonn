@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Sophia Broughton 👋
+## 😄 Pronouns: She/Her
+## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
 
 <!--
 **sophiabroughtonn/sophiabroughtonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
