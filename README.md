@@ -1,4 +1,5 @@
 ## Hi there, I'm Sophia Broughton 👋
+##🌱 I am a Junior at Arizona State University Studying Human Systems Engineering with a User Experience Concentration
 ## 😄 Pronouns: She/Her
 ## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
 
