@@ -2,6 +2,8 @@
 🌱 I am a Junior at Arizona State University Studying Human Systems Engineering with a User Experience Concentration
 ## 😄 Pronouns: She/Her
 ## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
+## 🔭 Programming Experience :
+[![My Skills](https://skillicons.dev/icons?i=c,java,py&perline=6)](https://skillicons.dev)
 
 <!--
 **sophiabroughtonn/sophiabroughtonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
