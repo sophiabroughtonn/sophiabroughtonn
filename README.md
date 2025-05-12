@@ -8,7 +8,7 @@
 ## 😄 Pronouns: She/Her
 ## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
 ## 🔭 My Technical Skills :
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,HTML,CSS,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,vscode&perline=6)](https://skillicons.dev)
 
 
 
