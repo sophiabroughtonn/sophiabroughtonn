@@ -1,5 +1,5 @@
 ## Hi there, I'm Sophia Broughton 👋
-🌱 I am a Junior at Arizona State University Studying Human Systems Engineering with a User Experience Concentration
+🌱 I am a Senior at Arizona State University Studying Human Systems Engineering with a User Experience Concentration
 
 🌱 Member of WiStem at Arizona State University 
 
@@ -8,7 +8,7 @@
 ## 😄 Pronouns: She/Her
 ## 📫 Reach me on Linkedin: https://www.linkedin.com/in/sophia-broughton/
 ## 🔭 My Technical Skills :
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,vscode&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,html,css,R,vscode&perline=6)](https://skillicons.dev)
 
 
 
